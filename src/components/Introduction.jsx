@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../styles/introduction.css";
+import "../styles/Introduction.css";
 import MyImage from "../assets/images/selfie.jpg";
 
 const Introduction = () => {
